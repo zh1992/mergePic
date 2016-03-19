@@ -1,4 +1,4 @@
 # mergePic
 
 belongs to guog.org
- ![image](https://github.com/zh1992/mergePic/1.png)
+ ![image](https://github.com/zh1992/mergePic/blob/master/1.png)
