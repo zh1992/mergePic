@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Mar 09 20:45:00 CST 2016
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=guog_mergePic_fat.jar
+manifest.mergeall=true
+manifest.mainclass=org.gh.mergePic.service.MergeByTid
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

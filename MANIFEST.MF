@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: mysql-connector-java-5.1.38.jar
+Main-Class: org.gh.mergePic.service.ManagePNG
+
+
+
