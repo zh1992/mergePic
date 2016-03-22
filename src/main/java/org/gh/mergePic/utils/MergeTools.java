@@ -14,7 +14,7 @@ import javax.imageio.ImageIO;
 public class MergeTools {
 
 	/**
-	 * 拼接图片
+	 * 拼接图片；小正方形图片合并成大正方形
 	 * 
 	 * @param files
 	 *            文件路径列表
@@ -114,10 +114,10 @@ public class MergeTools {
 			e.printStackTrace();
 		}
 	}
-//	
-//	public static void writeImg(String path,BufferedImage img){
-//		int width
-//	}
+	//
+	// public static void writeImg(String path,BufferedImage img){
+	// int width
+	// }
 
 	/**
 	 * 按比例压缩
@@ -158,7 +158,5 @@ public class MergeTools {
 		g.dispose();
 		return newImage;
 	}
-
-	
 
 }
